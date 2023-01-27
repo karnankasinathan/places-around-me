@@ -178,22 +178,21 @@ map.html :
 ```
 ## Output:
 
-https://user-images.githubusercontent.com/119560501/214063536-7fe94f38-7faf-4667-9fa7-3dec156e622c.png
 
 ![214063572-9ae5a242-79bd-47a3-8133-0bf4e15f0150](https://user-images.githubusercontent.com/118787064/215158984-25055822-782d-4c26-b291-adddfbd6665a.png)
 
-     ![214063600-cf3cfa62-6654-49af-bbd8-dd6d1145cc95](https://user-images.githubusercontent.com/118787064/215159000-1d9c9837-02a0-4934-8dab-9ebc3707fcc5.png)
+![214063600-cf3cfa62-6654-49af-bbd8-dd6d1145cc95](https://user-images.githubusercontent.com/118787064/215159000-1d9c9837-02a0-4934-8dab-9ebc3707fcc5.png)
 
-    ![214063622-6a3c6d17-e7e6-4709-9cd0-63e6dde7c03c](https://user-images.githubusercontent.com/118787064/215159008-c4bd419c-82a4-4333-85c5-7c9a5354bed2.png)
+![214063622-6a3c6d17-e7e6-4709-9cd0-63e6dde7c03c](https://user-images.githubusercontent.com/118787064/215159008-c4bd419c-82a4-4333-85c5-7c9a5354bed2.png)
  
-    ![214063645-41c2966d-37db-4f46-a5a6-3ee2caaf1518](https://user-images.githubusercontent.com/118787064/215159019-4e4c622e-1908-4be8-a28c-dc56f7b6b1de.png)
+![214063645-41c2966d-37db-4f46-a5a6-3ee2caaf1518](https://user-images.githubusercontent.com/118787064/215159019-4e4c622e-1908-4be8-a28c-dc56f7b6b1de.png)
  
-     ![214063676-1af57a75-06c4-4043-aa25-ac328d92a817](https://user-images.githubusercontent.com/118787064/215159032-dda5a823-d9b0-4c78-a254-abe3cafba799.png)
+![214063676-1af57a75-06c4-4043-aa25-ac328d92a817](https://user-images.githubusercontent.com/118787064/215159032-dda5a823-d9b0-4c78-a254-abe3cafba799.png)
 ![214063707-6120d70a-8e61-4dfd-bc8a-dad3f5609d73](https://user-images.githubusercontent.com/118787064/215159049-39b62296-d3dd-4e43-8ce3-aa6f4fe37be8.png)
 
-     ![214063735-9fc339e2-31fc-4985-b0be-aa98e0f8296b](https://user-images.githubusercontent.com/118787064/215159062-bd06b800-5eef-413a-8289-5d5abbf513c2.png)
+![214063735-9fc339e2-31fc-4985-b0be-aa98e0f8296b](https://user-images.githubusercontent.com/118787064/215159062-bd06b800-5eef-413a-8289-5d5abbf513c2.png)
 
- ![214064544-6aec6475-e235-4167-8a6d-bf2297845d9c](https://user-images.githubusercontent.com/118787064/215159077-4b082f5c-d09f-44e7-bd8b-c2d67dad0357.png)
+![214064544-6aec6475-e235-4167-8a6d-bf2297845d9c](https://user-images.githubusercontent.com/118787064/215159077-4b082f5c-d09f-44e7-bd8b-c2d67dad0357.png)
     
 
 
